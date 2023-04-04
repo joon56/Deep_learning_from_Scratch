@@ -7,4 +7,4 @@ Summaries on my Blog
 
 ###[Perceptron](https://helloparzival.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0)
 
-
+###[
